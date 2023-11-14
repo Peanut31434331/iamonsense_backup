@@ -1,3 +1,4 @@
+# 备份跑通的代码，原作者readme，如下：
 # IAMonSense: Multi-level Handwriting Classification using Spatio-temporal Information
 
 # Updates
